@@ -1,0 +1,33 @@
+---
+title: "Materials Project 1"
+author: "Cheng Xu"
+date:   "`r format(Sys.time(), '%Y--%m--%d')`"
+output: word_document
+---
+```{r setup, include=FALSE}
+library(knitr)
+library(captioner)
+library(dplyr)
+library(tidyverse)
+opts_chunk$set(echo = FALSE)
+opts_knit$set(root.dir = "../")
+```
+
+# Heading 1
+My report starts here.
+
+## Heading 2
+And I have this next subsection. 
+
+
+##### Heading 5
+
+
+
+###### Heading 6
+######
+```{r}
+source("scripts/plots.R") 
+ggplot(data = df) + 
+  geom_point(mapping = aes(x = Elongation, y = Load,color = Marterial))
+```

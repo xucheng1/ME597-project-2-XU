@@ -1,0 +1,8 @@
+---
+author: "Cheng Xu"
+output: github_document
+---
+
+## 2018-10-10 Comments
+
+Problem with data acquisition added.
