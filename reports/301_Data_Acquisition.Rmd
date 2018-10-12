@@ -3,11 +3,7 @@ title: "Data acquisition for Project 2"
 subtitle: "Me597"
 author: "Cheng Xu"
 date:   "`r format(Sys.time(), '%Y--%m--%d')`"
-bibliography: "../resources/204_project-2.bib"
-csl: "../resources/205_american-society-of-mechanical-engineers.csl"
-output: 
-  word_document:
-    reference_docx: "../resources/203_style-01.docx"
+output: github_document
 
 ---
 
