@@ -31,7 +31,19 @@ I have two suggestions:
 - be more thorough in your own searches; and 
 - ask our reference librarians for assistance. 
 
-Obtaining the original data isn't easy but it is part of your responsibility for the project. 
+Obtaining the original data isn't easy but it is part of your responsibility for the project. As you obtain specific data sets, do the analysis, create the graph, and so forth. Work with what you have but continue to acquire any data you don't have. 
+
+
+
+## 2018-10-10  Xu email
+
+I found two issues with the data of project 2:
+
+1.	I did find the data of S&P Case Shiller index used in the article. However, on the website, it only provides the 10-year long data for each month (2008 - 2018). However, in the article, it uses the data from 1975 - 2012. Also NO data on the website is similar to Table 2.
+2.	For the data "FHFA index", author is not clear for which type he is using for "All Transactions". On the official website, it has many types.
+3.	Author does not suggest where the Figure 1 from and NO such source printed in Table 1 from GOOGLE search. However, find similar data but not exact data for Table 1 and Figure 1 from google search.
+4.	Author mentioned other data are from Investment Company Institute and "Moody’s Economy.com" and "Moodys .com". However, no such data on the website or getting them requires authorization or something else.
+
 
 
 
