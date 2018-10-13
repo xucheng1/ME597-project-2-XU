@@ -6,6 +6,34 @@ Cheng Xu
 The original article is in the resource folder with the name
 “201\_original\_article.pdf”
 
+## 2018-10-13 RAL
+
+In discussing Figure 1, the authors state the data are from the “Flow of
+Funds Accounts maintained by the Federal Reserve.” The note in the
+figure states “Source: Federal Reserve Flow of Funds Data; Bureau of
+Economic Analysis”. I googled the latter and found a [data download
+program](https://www.federalreserve.gov/datadownload/Choose.aspx?rel=Z1).
+Using the Build Your Package feature I was able to find real estate
+assets owned by households with values similar to those in Table 1.
+
+For Table 2, I went to a [Robert Schiller
+website](http://www.econ.yale.edu/~shiller/data.htm) and clicked on the
+link for US home prices 1890-present which downloaded a spreadsheet that
+had data similar to that in Figure 2. This may not be exactly what you
+need, but it shows me that you could be more thorough in your search for
+the raw data than you have been so far. The spreadsheet also includes a
+column for the CPI. The CPI is a standard tool for adjusting dollar
+amounts for inflation. There will be numerous explanations online how to
+use it.
+
+I have two suggestions:
+
+  - be more thorough in your own searches; and
+  - ask our reference librarians for assistance.
+
+Obtaining the original data isn’t easy but it is part of your
+responsibility for the project.
+
 ## Problem with the data acquisition part
 
 1.  The website <https://fred.stlouisfed.org/series/CPGDPAI> is a
@@ -20,12 +48,7 @@ The original article is in the resource folder with the name
     not clear about how those numbers in the table come from.
 
 3.  For the figure 2 in the original report, I did find the data of S\&P
-    Case Shiller index “Composite 10” on the website
-    <https://us.spindices.com/indices/real-estate/sp-corelogic-case-shiller-10-city-composite-home-price-nsa-index#global-login>.
-    However, it only provides the 10-year long data for each month (2008
-    - 2018). However, in the article, it uses the data from 1987 - 2011
-    and December only. The same problem applies on Table 2 and also
-    there is NO data on the website is similar to Table 2.
+    Case Shiller
 
 4.  For the figure 3 in the original report, I did find the data of FHFA
     Housing Price Index (All Transactions) on the website
