@@ -1,6 +1,6 @@
 ---
 title: "Data acquisition for Project 2"
-subtitle: "Me597"
+subtitle: "ME 597"
 author: "Cheng Xu"
 date:   "`r format(Sys.time(), '%Y--%m--%d')`"
 output: github_document
